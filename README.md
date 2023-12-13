@@ -6,7 +6,7 @@
 
 ## About the SWEP  Project
 
-React Native To Do application created for SWEP project.
+ It is a React Native To Do application created for SWEP project.
 
 You can add tasks, delete them and mark as done.
 
@@ -27,9 +27,7 @@ First, npm install
 
 To make the pre-commit hook work, you need to run `npm install` when the project is already initialized as a Git repository.
 
-If the project is initialized as a repository later, you need to additionally execute `npm run prepare`.
-
-```
-npm start
+If the project is initialized as a repository later, you need to additionally execute `npm run prepare
+and also to run the application, use npm start.
 ```
 Enjoy!
